@@ -1,0 +1,5 @@
+# Created at 2023-09-27T14:25:30.424
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Ankita\ERP_LiveProj\StockAccounting_ERP\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
